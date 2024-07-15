@@ -1,0 +1,20 @@
+.myimg {
+    border-radius: 50%;
+    width: 200px;
+    border: 2px solid rgb(192, 22, 22);
+
+
+}
+
+#RT {
+    display: none;
+ }
+
+.background {
+    background-color: rgb(55, 216, 23);
+
+}
+
+body{
+   background-color: rgb(19, 152, 230);
+}
